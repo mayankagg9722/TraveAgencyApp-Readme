@@ -2,6 +2,7 @@
 # Beta vesion
 #
 Travel Agency App's source code is private. It will be public soon.
+#
 SPLASH SCREEN:
 #
 ![alt text](screenshots/1.png "Main")
@@ -22,6 +23,7 @@ LOG IN ACTIVITY:
 ![alt text](screenshots/8.png "Main")
 #
 SIGN UP ACTIVITY:
+#
 ![alt text](screenshots/9.png "Main")
 ![alt text](screenshots/10.png "Main")
 #
