@@ -1,7 +1,11 @@
 # TraveAgencyApp-Readme
 # Beta vesion
 #
-Travel Agency App's source code is private. It will be public soon.
+
+# Application
+
+https://github.com/mayankagg9722/TravelAgencyApp
+
 #
 SPLASH SCREEN:
 #
